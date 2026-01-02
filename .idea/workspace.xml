@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a46ae4ff-a0ff-4b70-a14e-c5942a148d56" name="Changes" comment="Literals">
-      <change afterPath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/Lab008-Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/lab007-task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/lab007-task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/lab009- user input ternery operator.py" afterDir="false" />
+    <list default="true" id="a46ae4ff-a0ff-4b70-a14e-c5942a148d56" name="Changes" comment="Operators">
+      <change afterPath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/lab11- if else cond-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/lab11-if else cond-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/lab11-if else cond-3-Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/lab12-if else cond-4-Task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dec/27-12-25_Python_Basic/lab006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,11 @@
     "Python.lab007-task.executor": "Run",
     "Python.lab007-task2.executor": "Run",
     "Python.lab009- user input ternery operator.executor": "Run",
+    "Python.lab010.executor": "Run",
+    "Python.lab11- if else cond-2.executor": "Run",
+    "Python.lab11-if else cond-1.executor": "Run",
+    "Python.lab11-if else cond-3-Task.executor": "Run",
+    "Python.lab12-if else cond-4-Task.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -167,13 +172,22 @@
       <option name="project" value="LOCAL" />
       <updated>1767286845680</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Operators">
+      <option name="closed" value="true" />
+      <created>1767347317014</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767347317014</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <MESSAGE value="input fn" />
     <MESSAGE value="Literals" />
-    <option name="LAST_COMMIT_MESSAGE" value="Literals" />
+    <MESSAGE value="Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators" />
   </component>
 </project>
